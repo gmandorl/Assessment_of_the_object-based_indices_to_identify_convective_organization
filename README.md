@@ -7,7 +7,9 @@ The code test 7 conditions of 9 object-based organization indices.
 The entire code can be run by executing `run_everything.sh`
 The input dataset is supplied as positional parameter, and an associated config file with the relevant information has to be present in `./data_production/organization/`.
 For example
-`source run_everything.sh TOOCAN`
+```Bash
+source run_everything.sh TOOCAN
+```
 execute all the code using the dataset described at './data_production/organization/config_TOOCAN.py'
 
 
@@ -21,7 +23,9 @@ source run.sh
 
 
 The generated dataset can be used to perform the analysis by
-`source run_everything.sh RANDOM`
+```Bash
+source run_everything.sh RANDOM
+```
 The associated config file is already 
 `./data_production/organization/config_RANDOM.py`
 and do not need modifications.
