@@ -1,6 +1,6 @@
 # Assessment of the object-based indices of convective organization
 
-The code test 7 conditions of 9 object-based organization indices.
+The code test 7 conditions of 9 object-based indices of convective organization.
 
 
 ### How to run the code
@@ -10,7 +10,7 @@ For example
 ```Bash
 source run_everything.sh TOOCAN
 ```
-execute all the code using the dataset described at './data_production/organization/config_TOOCAN.py'
+execute all the code using the dataset described at `./data_production/organization/config_TOOCAN.py`
 
 
 ### The generated dataset
