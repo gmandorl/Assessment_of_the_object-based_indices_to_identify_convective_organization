@@ -1,6 +1,6 @@
 # Assessment of the object-based indices of convective organization
 
-The code test 7 conditions of 9 object-based indices of convective organization.
+The code tests 7 conditions of 9 object-based indices of convective organization.
 
 
 ### How to run the code
@@ -33,3 +33,9 @@ and do not need modifications.
 
 ### The results 
 All the plots produced by this code can be found [here](https://web.lmd.jussieu.fr/~gmandorli/Assessment_of_the_object-based_indices_of_convective_organization/)
+
+
+
+
+[![DOI](https://zenodo.org/badge/682162569.svg)](https://zenodo.org/badge/latestdoi/682162569)
+
